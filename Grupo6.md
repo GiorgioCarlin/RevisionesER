@@ -4,5 +4,6 @@ La entidad cliente existe y tiene sus atributos definidos. Pero no posee ninguna
 
 Nota: 6.0
 
-![Uploading image.png…]()
 
+
+![image](https://github.com/user-attachments/assets/dc738c46-4d38-405a-94ea-3f623f33c176)
